@@ -168,16 +168,3 @@ https://app.zerve.ai/report/be09505f-8725-4836-8056-f4f9b20fe99f
 
 ---
 
-# 👩‍💻 Author
-
-# 📬 Contact
-
-**Sanjana Reddy Gangula**
-
-🎓 Master's Student — Business Analytics
-
-California State University, East Bay
-
-📧 gangulasanjanareddy@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/sanjanagangula
